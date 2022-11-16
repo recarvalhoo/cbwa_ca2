@@ -15,3 +15,9 @@ WORKDIR /app/mobdev_ca3-main/
 RUN npm install -g ionic
 
 
+RUN npm run build --prod
+
+
+FROM nginx:alpine
+
+
