@@ -1,7 +1,7 @@
 # cbwa-ca2
 
-Student: Renata Carvalho
-Student Number: 2022140
+- Student: Renata Carvalho
+- Student Number: 2022140
 
 Build a Docker Image that contains the Ionic application that you built for MobDev with a server and that is ready to be distrubuted to any cloud provider supporting Docker containers.
 CA2 of Cloud Based Web Application.
