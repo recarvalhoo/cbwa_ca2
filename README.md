@@ -48,46 +48,46 @@ Cloud Build is a service that executes your builds on Google Cloud. Cloud Build 
 - Access cloud-hosted, fully managed CI/CD workflows within your private network
 - Keep your data at rest within a geographical region or specific location with data residency
 
-### References
+## References
 
-## Ionic project and how to run the image using Alpine, Nginx:
+### Ionic project and how to run the image using Alpine, Nginx:
 
 - https://blog.knoldus.com/deployment-with-docker-in-ionic/
 - https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/
 
-## Build Node image: 
+### Build Node image: 
 
 - https://docs.docker.com/language/nodejs/build-images/
 
-## Docker workdir: 
+### Docker workdir: 
 
 - https://www.java4coding.com/contents/docker/docker-workdir-command
 
-## Downloading from github using wget:
+### Downloading from github using wget:
 
 - https://gist.github.com/jwebcat/5122366
 
-## How to build and run a Node.js application using Nginx, Docker and Redis: 
+### How to build and run a Node.js application using Nginx, Docker and Redis: 
 
 - https://developer.redis.com/create/docker/nodejs-nginx-redis/
 
-## How to Serve Static Files with Nginx and Docker: 
+### How to Serve Static Files with Nginx and Docker: 
 
 - https://sabe.io/tutorials/serve-static-files-nginx-docker
 
-## Containarize an ANGULAR application: 
+### Containarize an ANGULAR application: 
 
 https://www.c-sharpcorner.com/article/containerize-an-angular-application/
 
-## Downloading the latest version of node as a base image:
+### Downloading the latest version of node as a base image:
 
 - https://docs.docker.com/engine/reference/builder/#from
 
-## Building application from source:
+### Building application from source:
 
 - https://ionicframework.com/docs/cli/commands/build
 
-## Cloud Build (Google Cloud):
+### Cloud Build (Google Cloud):
 
 - https://cloud.google.com/build?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-p-dr-1011454-LUAC0016143&utm_content=text-ad-none-any-DEV_c-CRE_542427311657-ADGP_Hybrid%20%7C%20SKWS%20-%20PHR%20%7C%20Txt%20~%20Containers_Cloud-Build-KWID_43700066034733190-kwd-296782150685&utm_term=KW_docker-ST_Docker&gclid=Cj0KCQiA1NebBhDDARIsAANiDD3WiMRo8DN7TBr8Uxwtp6ryP0DuU5tsZHj5sGFw_oP8BuDCHUtT6CoaAhgoEALw_wcB&gclsrc=aw.ds#section-7
 
@@ -95,7 +95,7 @@ https://www.c-sharpcorner.com/article/containerize-an-angular-application/
 
 - https://cloud.google.com/build/docs/building/build-containers
 
-## Azure Container (Microsoft):
+### Azure Container (Microsoft):
 
 - https://learn.microsoft.com/en-us/azure/container-instances/container-instances-overview
 
